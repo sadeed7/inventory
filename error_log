@@ -1,0 +1,5 @@
+[14-Apr-2017 17:29:11 Asia/Karachi] PHP Parse error:  syntax error, unexpected '[' in /home/creadevp/public_html/Boeki/application/controllers/Admin.php on line 142
+[14-Apr-2017 17:29:17 Asia/Karachi] PHP Parse error:  syntax error, unexpected '[' in /home/creadevp/public_html/Boeki/application/controllers/Admin.php on line 142
+[14-Apr-2017 17:29:24 Asia/Karachi] PHP Parse error:  syntax error, unexpected '[' in /home/creadevp/public_html/Boeki/application/controllers/Admin.php on line 142
+[14-Apr-2017 12:34:02 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/mysqli.so' - libmysqlclient.so.18: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
+[14-Apr-2017 12:34:02 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/alt/php70/usr/lib64/php/modules/pdo_mysql.so' - libmysqlclient.so.18: failed to map segment from shared object: Cannot allocate memory in Unknown on line 0
