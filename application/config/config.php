@@ -23,7 +23,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
+<<<<<<< HEAD
+$config['base_url'] = 'http://35.162.75.18/Inventory/';
+=======
 $config['base_url'] = 'http://localhost/Inventory/';
+>>>>>>> a3d31b8284a187d98a79f8a1ac4133c18601cd53
 
 /*
 |--------------------------------------------------------------------------
